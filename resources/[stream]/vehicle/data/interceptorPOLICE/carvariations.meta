@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>intcept2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            1
+            11
+            6
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            1
+            134
+            6
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            1
+            157
+            6
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            1
+            134
+            6
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            1
+            45
+            6
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            1
+            2
+            6
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="74"/>
+    </Item>
+		<Item>
+      <modelName>intcept4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            1
+            3
+            6
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="74"/>
+    </Item>
+    <Item>
+      <modelName>intcept</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="73"/>
+    </Item>
+    <Item>
+      <modelName>intcept3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72"/>
+      <sirenSettings value="73"/>
+    </Item>
+ </variationData>
+</CVehicleModelInfoVariation>
